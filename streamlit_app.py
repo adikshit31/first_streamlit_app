@@ -1,5 +1,7 @@
 import streamlit
 streamlit.title('My Spouse new healthy lunch')
-Khichdi
-Bharta
-Salad
+streamlit.header('Menu')
+streamlit.text('Khichdi')
+streamlit.text('Bharta')
+streamlit.text('Curd')
+streamlit.text('Salad')
